@@ -8,4 +8,13 @@
 
   * The Data Set
     * Data Selection
+    * Data Wrangling
+    * Exclsuion Criteria
+  * Tools Used
+  * Conculsion
+  * Follow Me On
+
+# The Data Set
+
+
     
