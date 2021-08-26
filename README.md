@@ -7,12 +7,12 @@
 # Table of Content 
 
   * [The Data Set](#the-data-set)
-    * Data Selection
-    * Data Wrangling
-    * Exclsuion Criteria
-  * Tools Used
-  * Conculsion
-  * Follow Me On
+    * [Data Selection](#data-selection)
+    * [Data Wrangling](#data-wrangling)
+    * [Exclsuion Criteria](#exculsion-criteria)
+  * [Tools Used](#tools-used)
+  * [Conculsion](#conclusion)
+  * [Follow Me On](#follow-me-on)
 
 # The Data Set
 
