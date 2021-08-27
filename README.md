@@ -9,7 +9,7 @@
   * [The Data Set](#the-data-set)
     * [Data Selection](#data-selection)
     * [Data Wrangling](#data-wrangling)
-    * [Exclsuion Criteria](#exculsion-criteria)
+    * [Exclusion Criteria](#exclusion-criteria)
   * [Tools Used](#tools-used)
   * [Conculsion](#conclusion)
   * [Follow Me On](#follow-me-on)
